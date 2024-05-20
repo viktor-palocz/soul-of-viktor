@@ -2,11 +2,11 @@
     "name": "Soul of Viktor",
     "symbol": "SOV",
     "description": "It's my soul split into tokens.",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://raw.githubusercontent.com/viktor-palocz/soul-of-viktor/a3968b26ee091708e19544773cb06671138f516e/en.jpg",
     "attributes": [
       {
-        "trait_type": "Item",
-        "value": "Developer Portal"
+        "trait_type": "Website",
+        "value": "To be developed."
       }
     ]
 }
