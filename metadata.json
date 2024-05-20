@@ -1,0 +1,12 @@
+{
+    "name": "Soul of Viktor",
+    "symbol": "SOV",
+    "description": "It's my soul split into tokens.",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+}
